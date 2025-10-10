@@ -1,0 +1,12 @@
+result = [1,2,3,4,5,6,7,8,9,10]
+new_result = print(result[::-2])#slicing to reverse the list
+new_result = print(result[::2])#slicing to get alternate items in the list
+new_result = print(result[1::2])#slicing to get alternate items in the list starting from index 1
+new_result = print(result[1:5])#slicing to get items from index
+new_result = print(result[1:])#slicing to get items from index 1 to end
+new_result = print(result[:5])#slicing to get items from start to index
+new_result = print(result[:])#slicing to get all items in the list
+new_result = print(result[-1])#slicing to get last item in the list
+new_result = print(result[-3:])#slicing to get last 3 items in the list
+new_result = print(result[:-3])#slicing to get all items except last 3 items in the list
+new_result = print(result[::-1])#slicing to reverse the list
