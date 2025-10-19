@@ -1,0 +1,3 @@
+lst1. Buy groceries
+2. Call Mom
+3. Finish homework
