@@ -1,0 +1,10 @@
+File handeling is method to access over context in existing file or it will create a context to extract data or do some functionality
+We are dealing with 3 mode for modifying the context we are working on.They are-
+1. Write mode
+2. Read mode
+3. Append mode
+Write mode is deal with write something into a defined location.
+If we dont have any existing file where we can write context so before that we can create it.
+Syntext: (Basic)- Context(variable name) = file name then mode name.Call write function
+Enter the context
+close the file by calling a defined function close()
